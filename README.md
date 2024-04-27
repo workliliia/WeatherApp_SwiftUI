@@ -16,6 +16,5 @@ Build and run the project on a simulator or a connected device.
 ## Usage:
 Once the app is running, users can view the current weather condition, temperature, and forecast for the upcoming days. They can also toggle between day and night modes using the "Change Day Time" button.
 
-## Contributing:
-Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
+
 
